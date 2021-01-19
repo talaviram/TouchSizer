@@ -356,7 +356,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.talaviram.TouchSizer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/talaviram/Developer/TouchSizer/TouchSizer/TouchSizer-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "${SRCROOT}/TouchSizer/TouchSizer-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				SYSTEM_FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -380,7 +380,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.talaviram.TouchSizer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/talaviram/Developer/TouchSizer/TouchSizer/TouchSizer-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "${SRCROOT}/TouchSizer/TouchSizer-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				SYSTEM_FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
